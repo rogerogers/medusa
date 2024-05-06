@@ -1,5 +1,15 @@
 # @medusajs/pricing
 
+## 0.1.13
+
+### Patch Changes
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f4953`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
+- Updated dependencies [[`f1294156`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d), [`c32a31e1`](https://github.com/medusajs/medusa/commit/c32a31e1394609845a5f202b1684d70fea019dc9), [`9d3f4953`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/types@1.11.17
+  - @medusajs/utils@1.11.10
+
 ## 0.1.12
 
 ### Patch Changes
